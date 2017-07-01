@@ -1,0 +1,33 @@
+*{
+	margin: 0 auto;
+	padding: 0px;
+	font-family: Consolas;
+}
+body{
+	background: #888888;
+}
+.title{
+	position: absolute;
+	top:10%;
+	left: 10%;
+	font-size: 30px;
+	
+	color: white;
+}
+.about{
+	position: absolute;
+	bottom: 20%;
+	right:50%;
+	margin: auto;
+
+}
+.sec{
+	position: relative;
+}
+#about{
+		text-decoration:none;
+	
+	font-size:20px;
+}
+
+
